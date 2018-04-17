@@ -1,3 +1,3 @@
-print('hello')
-print('hello!')
-print('hello1234567890')
+print(1234567890)
+print('helloworld')
+
